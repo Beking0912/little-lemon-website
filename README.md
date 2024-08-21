@@ -4,6 +4,15 @@ npm install
 npm run start
 ```
 
+## test
+code: src/components/BookingForm.test.js
+```
+npm run test
+```
+
+<img width="538" alt="截屏2024-08-21 下午4 58 24" src="https://github.com/user-attachments/assets/98e16382-4dc4-49c5-98b6-c2720a626b61">
+
+
 ## screenshots
 
 ![localhost_3000_](https://github.com/user-attachments/assets/eaad5e7d-16a4-45ee-9687-db4329212047)
